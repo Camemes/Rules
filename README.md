@@ -16,7 +16,7 @@ Last Modified: 31st of May 2019
 3. Any cheating client modifications/hack clients that give you a severe, game altering advantage over is not allowed or tolerated.
 4. If you’re building near someone else's base, please contact them first to make sure they don’t have plans for the area. Clearly mark your planned builds.
 5. Clearly mark the ownership of your base/farm/build.
-6. Flying machines are allowed for non-farming purposes.
+6. Small flying machines are allowed for non-farming purposes.
 7. Spawn chunks are out of bounds for building bases.
 8. Enderman, Gold and Iron farms are not to be built until The End is free.
 9. The End Outer islands will be reset once a month.
