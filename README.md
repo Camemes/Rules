@@ -7,8 +7,8 @@ Last Modified: 2nd of June 2019
 4. Swearing, rudeness and harassment will not be tolerated.
 5. No obscene/questionable language, names, or builds.
 6. Do not spam. This includes sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
-7. Follow the directions given by any staff member. Do not lie to a staff member [Exodus 20:16]. If you believe a staff member is abusing their power through wrongful punishments or other methods, please email subtlechristianminecraft@gmail.com and provide any evidence or details you possess regarding the staff member.
-8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://zander.shadowolf.ml/issues, with details regarding the potential server exploit.
+7. Follow the directions given by any staff member. Do not lie to a staff member [Exodus 20:16]. If you believe a staff member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
+8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://craftingforchrist/issues, with details regarding the potential server exploit.
 
 # B. Gameplay Guidelines
 1. Your Minecraft username and skin must be appropriate for all ages. Objectionable skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will result in punishment.
