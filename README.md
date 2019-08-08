@@ -1,4 +1,4 @@
-Last Modified: 2nd of June 2019
+Last Modified: 8th of August 2019
 
 # A. Community Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
