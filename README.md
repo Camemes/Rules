@@ -6,10 +6,10 @@ Last Modified: 8th of August 2019
 3. Be respectful to all community members and staff.
 4. Swearing, rudeness and harassment will not be tolerated.
 5. No obscene/questionable language, names, or builds.
-  - If you wish to create a build that you are either unsure of, or if it would be considered inapropriate, but you believe the context justifies it, then consult with the staff team for confirmation.
+  - If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with the staff team for confirmation.
 6. Do not spam. This includes sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
 7. Follow the directions given by any staff member. Do not lie to a staff member [Exodus 20:16]. If you believe a staff member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
-8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://craftingforchrist/issues, with details regarding the potential server exploit.
+8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist/issues, with details regarding the potential server exploit.
 
 # B. Gameplay Guidelines
 1. Your Minecraft username and skin must be appropriate for all ages. Objectionable skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will result in punishment.
@@ -24,7 +24,7 @@ Last Modified: 8th of August 2019
 10. Enderman, Gold and Iron farms are not to be built until The End is free.
 11. The End Outer islands will be reset once a month. The staff team is not responsible for any builds or items lost from the End pruning.
 12. Flying TNT dupers are not allowed.
-13. Pranks done in fun, among frineds are permitted, but genuine griefing will not be tollerated.
+13. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 
 # C. Other
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
