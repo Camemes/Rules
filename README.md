@@ -1,4 +1,4 @@
-Last Modified: 8th of August 2019
+Last Modified: 21st of August 2019
 
 # A. Community Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
@@ -26,7 +26,24 @@ Last Modified: 8th of August 2019
 12. Flying TNT dupers are not allowed.
 13. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 
-# C. Other
+# C. Client Modifications
+1. Any client modifications that give you a severe, game altering advantage over other Minecraft players is not allowed.
+2. The mods listed below are permitted for use through Crafting For Christ:
+  - OptiFine
+  - GammaBright
+  - Mods that change Minecraft's GUI (Graphical User Interface)
+  - Toggle Sprint
+  - 5zig PvP Modification
+  - Sorting Inventory Mods
+3. The mods listed below are strictly not allowed to use:
+  - Fly mods
+  - Aimbots
+  - Toggle-Crouch mods that allow crouching while using a Minecraft interface (Inventories, Menus, Chat)
+  - Minimaps that reveals the positions of creatures, players or underground caves/tunnels
+  - Mods that assist in switching tools
+  - X-Ray Mods or Resource Packs
+
+# D. Other
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
 2. There is a one week grace period for rule changes.
 3. The staff team has the right to ban or unban any player from any services for any reason without notice.
