@@ -30,12 +30,12 @@ Last Modified: 21st of August 2019
 
 # C. Forum Guidelines
 1. Do not make posts or topics meant to insult, harrass, or provoke other people or groups. Do not promote or encourage others to make these posts either.
-2. Do not reply posts with spammy irrelevant topics, images, or texts. 
+2. Do not reply to posts with spammy irrelevant topics, images, or texts. 
 3. Any disrespectful comments or posts meant to upset another user is prohibited.
-4. Please use the correct subforum when posting. If you are unsure where your post belongs, ask a staff member privately or place it in off-topic to be safe.
+4. Please use the correct subforum when posting. If you are unsure where your post belongs, ask a staff member privately or place it in Off Topic to be safe.
 5. Please refrain from "bumping" old threads with irrelevant comments. Revitalising a conversation is ok, as long as the comment is relevant. 
   5.a "Bumping" refers to making a comment or reply after a long period of inactivity on a thread.
-6. Advertising any other minecraft or discord servers is prohibited.
+6. Advertising any other Minecraft or Discord servers is prohibited.
 7. Do not post any misleading or misguiding content that may trick users.
 
 # D. Discord Guidelines
@@ -43,12 +43,12 @@ Last Modified: 21st of August 2019
 2. Please be respectful to all players with all different beliefs. While you may not agree with them, you must respect and honour them appropriately.
 3. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
 4. Any inappropriate links, images, or videos are strictly prohibited.
-5. VOICE CHANNEL RULES
-  5.a. No "mic spamming"
-  5.b. No playing music or videos without consent of the other users in the channel
-  5.c. Please respect the wishes of others if they ask you to stop doing something.
-  5.d. Do not play any inappropriate audio or music.
-  5.e. Harrassing, insulting, provoking, upsetting, and/or threatening other users in the voice channel is strictly prohibited.
+5. Voice Channel Rules:
+  5.A. No "mic spamming"
+  5.B. No playing music or videos without consent of the other users in the channel
+  5.C. Please respect the wishes of others if they ask you to stop doing something.
+  5.D. Do not play any inappropriate audio or music.
+  5.E. Harrassing, insulting, provoking, upsetting, and/or threatening other users in the voice channel is strictly prohibited.
 
 # E. Other
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
