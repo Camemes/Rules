@@ -33,7 +33,7 @@ Last Modified: 21st of August 2019
 2. Do not reply posts with spammy irrelevant topics, images, or texts. 
 3. Any disrespectful comments or posts meant to upset another user is prohibited.
 4. Please use the correct subforum when posting. If you are unsure where your post belongs, ask a staff member privately or place it in off-topic to be safe.
-5. Please refrain from "bumping" old threats with irrelevant comments. Revitalising a conversation is ok, as long as the comment is relevant. 
+5. Please refrain from "bumping" old threads with irrelevant comments. Revitalising a conversation is ok, as long as the comment is relevant. 
   5.a "Bumping" refers to making a comment or reply after a long period of inactivity on a thread.
 6. Advertising any other minecraft or discord servers is prohibited.
 7. Do not post any misleading or misguiding content that may trick users.
